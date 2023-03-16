@@ -82,7 +82,8 @@ ul {
 
 footer  {
   text-align:  center;
-  margin-left:  20%;
+  margin-left:  auto;
+  margin-right: auto; 
 }
 
 .image-circle {
